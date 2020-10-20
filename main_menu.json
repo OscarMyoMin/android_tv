@@ -1,0 +1,20 @@
+{
+  "data":[
+    {
+      "id":1,
+      "name":"Free To Air"
+    },
+    {
+      "id":2,
+      "name":"Movie"
+    },
+    {
+      "id":3,
+      "name":"Series"
+    },
+    {
+      "id":4,
+      "name":"Anime"
+    }
+  ]
+}
