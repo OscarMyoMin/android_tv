@@ -1,0 +1,26 @@
+{
+  data:[
+    {
+      "id":1,
+      "name":"Channel K",
+      "description":"Channel K is a 24-hour free-to-air television channel that broadcasts entertainment programs. Launched in February 2019, Channel K is a digital free-to-air entertainment channel headquartered in Yangon. It reaches across all 15 states of Myanmar on linear TV and is also available on social media and an OTT app. It targets the whole of Myanmar in general, and the critical ages of 18 to 38 in particular. Channel K has 4 main pillars of programming: Business, Movies, Music and Culture. The channel is also home to some of the biggest names in the entertainment industry. Its brand ambassadors include the biggest hip hop star, Sai Sai Kham Leng, Myanmar pop queen Ni Ni Khin Zaw, rock queen Phyu Phyu Kyaw Thein, Cultural icon Phoe Chit , Movie star Pyae Ti Oo and big screen actress Soe Pyae Thazin.",
+      "website":"https://www.channelkmyanmar.com/",
+      "link":[
+        {
+          "url":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCA5OjMyOjA3IEFNJmhhc2hfdmFsdWU9TUh2ajBCc2c4L1dXTGE3empUb3dlZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj00"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name":"DVB",
+      "description":"DVB TV is a 24-hour free-to-air television channel and Online News Network in Myanmar/Burma. The DVB (Democratic Voice of Burma) is a non-profit Burmese media organization committed to responsible journalism. Our mission is to provide accurate and unbiased news to the people of Burma, to promote understanding and cooperation amongst the various ethnic and religious groups of Burma, to encourage and sustain independent public opinion and enable social and political debate, to impart the ideals of democracy and human rights to the people of Burma. The DVB is formerly registered & based in Oslo, Norway and now DVB Multimedia Group is officially operating in Myanmar/Burma.",
+      "website":"http://burmese.dvb.no/",
+      "link":[
+        {
+          "url":"https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCA5OjQzOjE4IEFNJmhhc2hfdmFsdWU9M1F5d2ZVRFRYbi9nZGhtYWZ6cEliUT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNw=="
+        }
+      ]
+    },
+  ]
+}
