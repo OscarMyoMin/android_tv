@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Moe Naing",
+            "image": "https://imgcache.joox.com/music/joox/photo_mm_my/mid_singer_300/9/b/044ad428bd2a85c35e7e1bb8d754889b.jpg",
+            "song": "50",
+            "follower": "8K"
+        },
+        {
+            "id": 2,
+            "name": "Zin Bo Htet",
+            "poster": "https://imgcache.joox.com/music/joox/photo_mm_my/mid_singer_300/b/1/7825aa314d7d652180691719ea00d5b1.jpg",
+            "song": "52",
+            "follower": "8K"
+        },
+        {
+            "id": 3,
+            "name": "Thu Kha",
+            "image": "https://imgcache.joox.com/music/joox/photo_mm_my/mid_singer_300/f/9/32553905ea05e9a56437b06fd0c3d3f9.jpg",
+            "song": "50",
+            "follower": "8K"
+        }
+    ],
+    "links": {
+        "first": "https://lolanimm.fun/public/api/movie?page=1",
+        "last": "https://lolanimm.fun/public/api/movie?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "https://lolanimm.fun/public/api/movie",
+        "per_page": 15,
+        "to": 12,
+        "total": 12
+    }
+}
