@@ -1,0 +1,76 @@
+{
+  "data":{
+    "id":1,
+    "name":"Moe Naing",
+    "image":"https://imgcache.joox.com/music/joox/photo_mm_my/mid_singer_300/9/b/044ad428bd2a85c35e7e1bb8d754889b.jpg",
+    "song": "50",
+    "follower": "8K",
+    "info":"This is info"
+  },
+  "tracks":[
+    {
+      "id":1,
+      "name":"No Away",
+      "image":"https://i.pinimg.com/originals/da/18/3e/da183e46c3de1eaefa4f6705ca9a50dd.jpg",
+      "audience":"24,477"
+    },
+    {
+      "id":2,
+      "name":"အနာဂါတ်",
+      "image":"https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/122479313/original/fb299ab659967e07941d3f226232c2b8bb603cd4/design-contemporary-and-inspirational-gospel-music-cd-cover.jpg",
+      "audience":"24,477"
+    },
+    {
+      "id":3,
+      "name":"Lwin Chin",
+      "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440",
+      "audience":"245"
+    },
+    {
+      "id":4,
+      "name":"ချစ်လို့ပါကွာ",
+      "image":"https://thumbs.dreamstime.com/b/dynamic-radial-color-sound-equalizer-design-music-album-cover-template-abstract-circular-digital-data-form-vector-160916775.jpg",
+      "audience":"245"
+    }
+  ],
+  "album":[
+    {
+      "id":1,
+      "name":"Single Collection",
+      "image":"https://heralddesigns.com.ng/wp-content/uploads/2019/02/BIg-BossM-1024x1024.jpg",
+      "date":"2020"
+    },
+    {
+      "id":2,
+      "name":"ဘဝရဲ့သခင်",
+      "image":"https://notjustok.com/wp-content/uploads/2019/02/IMG-20190215-WA0005.jpg",
+      "date":"2020"
+    },
+    {
+      "id":3,
+      "name":"အိပ်မက်ကဗျာ",
+      "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/love-music-cd-music-cover-template-design-a8f2a1af7de0479ae4344113a4750136_screen.jpg?ts=1572382443",
+      "date":"2020"
+    },
+    {
+      "id":4,
+      "name":"ချစ်ခြင်းအားဖြင့်",
+      "image":"https://cdn.music-artworks.com/wp-content/uploads/2020/05/neurofunk-purple-overlay-360x360.jpg",
+      "date":"2020"
+    }
+  ],
+  "mv":[
+    {
+      "id":3,
+      "name":"Lwin Chin",
+      "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440",
+      "audience":"245"
+    },
+    {
+      "id":4,
+      "name":"ချစ်လို့ပါကွာ",
+      "image":"https://thumbs.dreamstime.com/b/dynamic-radial-color-sound-equalizer-design-music-album-cover-template-abstract-circular-digital-data-form-vector-160916775.jpg",
+      "audience":"245"
+    }
+  ]
+}
