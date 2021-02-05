@@ -3,7 +3,7 @@
     {
       "id":1,
       "image":"https://ichef.bbci.co.uk/news/976/cpsprodpb/2A8E/production/_116749801_de92c5b0-38c8-40d8-af0a-5d923200c819.jpg",
-      "description":"I am trying to create an app that can download music files, .mp3 to be precise, from the server.As I am a rookie in this Android Development field so I will appreciate any help from you guys. I need something to start on and I will really appreciate if u can give me some links for useful resources. Thanks"
+      "description":"I am trying to create an app that can download music files, .mp3 to be precise, from the server.As I am a rookie in this Android Development field so I will appreciate any help from you guys."
     },
     {
       "id":2,
@@ -34,6 +34,12 @@
       "name":"Lwin Chin",
       "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440",
       "audience":"245"
+    },
+    {
+      "id":4,
+      "name":"ချစ်လို့ပါကွာ",
+      "image":"https://thumbs.dreamstime.com/b/dynamic-radial-color-sound-equalizer-design-music-album-cover-template-abstract-circular-digital-data-form-vector-160916775.jpg",
+      "audience":"245"
     }
   ],
   "recent":[
@@ -44,16 +50,23 @@
       "artist":"Kaung Myat, Moe Naing"
     },
     {
+      "id":3,
+      "name":"Lwin Chin",
+      "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440",
+      "artist":"Kaung Myat, Moe Naing"
+    },
+    {
       "id":2,
       "name":"အနာဂါတ်",
       "image":"https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/122479313/original/fb299ab659967e07941d3f226232c2b8bb603cd4/design-contemporary-and-inspirational-gospel-music-cd-cover.jpg",
       "artist":"Zin Bo Htet, Moe Naing"
     },
     {
-      "id":3,
-      "name":"Lwin Chin",
-      "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440",
-      "artist":"Kaung Myat, Moe Naing"
+      "id":5,
+      "name":"Life is Nothing",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/91Ph%2BuTyyxL._AC_SL1500_.jpg",
+      "artist":"Zin Bo Htet, Moe Naing, Phone Thar"
     }
+    
   ]
 }
