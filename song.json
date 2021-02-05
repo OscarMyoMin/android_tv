@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": 35,
+            "name": "No Away",
+            "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/Dua_Lipa_Swan_Song.png",
+            "artist": "Kaung Myat, Moe Naing"
+        },
+        {
+            "id": 34,
+            "name": "ချစ်လို့ပါကွာ",
+            "poster": "https://image.joox.com/JOOXcover/0/331e9efe7d696e72/300",
+            "artist": "Moe Naing"
+        },
+        {
+            "id": 33,
+            "name": "အနာဂါတ်",
+            "poster": "https://image.joox.com/JOOXcover/0/03fc624a449e3d43/300",
+            "artist": "Zin Bo Htet, Moe Naing"
+        }
+    ],
+    "links": {
+        "first": "https://lolanimm.fun/public/api/movie?page=1",
+        "last": "https://lolanimm.fun/public/api/movie?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "https://lolanimm.fun/public/api/movie",
+        "per_page": 15,
+        "to": 12,
+        "total": 12
+    }
+}
